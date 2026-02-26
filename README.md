@@ -5,9 +5,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=htetwaiyanDB&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htetwaiyanDB&layout=compact&theme=dark" alt="Top Langs" />
-</p>
+</p> -->
 
 ---
 
