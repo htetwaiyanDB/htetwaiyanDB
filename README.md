@@ -32,6 +32,6 @@
 
 ### 🚀 Featured Projects
 - 📚 **Book Palace Book Shop** - Built with PHP & MySQL.
-- 🏥 **Hospital Management System** - Built with PHP & MySQL.
-- 🏋️ **Gym Management System** - Developed using Laravel & PHP.
+- 🏥 **Hospital Management System** - Built with PHP , Laravel & MySQL.
+- 🏋️ **Gym Management System** - Developed using Laravel & MySQL.
 - 🎨 **Web Design Projects** - Creative UI/UX using HTML & CSS.
