@@ -2,7 +2,7 @@
 
 Backend-focused web developer who enjoys building practical, reliable web applications and clean, responsive interfaces.
 
-- 🌱 Currently improving my skills in Laravel, REST APIs, and React.
+- 🌱 Currently improving my skills in Laravel, Node.js , Python , REST APIs, and React.
 - 💼 Interested in backend and full-stack web development opportunities.
 - 📫 Connect with me through GitHub: [@htetwaiyanDB](https://github.com/htetwaiyanDB)
 
