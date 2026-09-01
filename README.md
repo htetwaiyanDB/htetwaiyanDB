@@ -1,43 +1,84 @@
-# Hi there 👋 I'm Htet Wai Yan
+# Hi, I'm Htet Wai Yan 👋
 
-Backend-focused web developer who enjoys building practical, reliable web applications and clean, responsive interfaces.
+### Backend-Focused Full-Stack Developer
 
 - 🌱 Currently improving my skills in Laravel, Node.js , Python , REST APIs, and React.
 - 💼 Interested in backend and full-stack web development opportunities.
 - 📫 Connect with me through GitHub: [@htetwaiyanDB](https://github.com/htetwaiyanDB)
+I build practical, reliable web applications and clean, responsive interfaces. My focus is on turning real-world business workflows into maintainable systems—from backend APIs and databases to polished web and mobile experiences.
 
-### 📊 GitHub Stats & Activity
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=htetwaiyanDB&theme=dark" alt="GitHub Streak" />
+## Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+## Featured Projects
+
+### 🏋️ Gym Management System
+
+A complete platform for simplifying everyday gym operations.
+
+- RFID attendance workflows
+- Subscription and membership management
+- Mobile app deployment and integration
+
+### 🦷 Dental Cloud Pro
+
+A cloud-based system supporting clinical and financial dental workflows.
+
+- Clinical treatment workflow management
+- Doctor commission calculations
+- Material cost tracking
+
+### 🛒 Flex Used Market
+
+A secure secondhand marketplace designed for smooth buying and selling.
+
+- Admin controls and marketplace moderation
+- KBZPay payment verification
+- Map and location-based features
+
+### 🧾 Vision POS
+
+A practical point-of-sale application for dependable day-to-day transactions.
+
+- Backend authentication
+- Receipt formatting workflows
+- Mobile app integration
+
+## GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/htetwaiyanDB">
+    <img src="https://github-readme-stats.vercel.app/api?username=htetwaiyanDB&show_icons=true&theme=tokyonight&hide_border=true" alt="Htet Wai Yan's GitHub stats" />
+  </a>
 </p>
 
-<!-- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htetwaiyanDB&layout=compact&theme=dark" alt="Top Langs" />
-</p> -->
+<p align="center">
+  <a href="https://github.com/htetwaiyanDB">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=htetwaiyanDB&theme=tokyonight&hide_border=true" alt="Htet Wai Yan's GitHub contribution streak" />
+  </a>
+</p>
+
+## What I Focus On
+
+- Reliable backend systems and RESTful APIs
+- Well-structured MySQL databases
+- Business-management applications that solve real problems
+- Responsive interfaces with React and Next.js
+- Web-to-mobile integrations with Expo
+
+## Connect
+
+- GitHub: [@htetwaiyanDB](https://github.com/htetwaiyanDB)
+- Email: [hwyy22@gmail.com](mailto:hwyy22@gmail.com)
 
 ---
 
-### ⚙️ Backend Development
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🖥️ Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 🛠️ Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-- 📚 **Book Palace Book Shop** - Built with PHP & MySQL.
-- 🏥 **Hospital Management System** - Built with PHP , Laravel & MySQL.
-- 🏋️ **Gym Management System** - Developed using Laravel & MySQL.
-- 🎨 **Web Design Projects** - Creative UI/UX using HTML & CSS.
+> Build practical solutions, write clean code, and keep improving.
