@@ -1,5 +1,11 @@
 # Hi there 👋 I'm Htet Wai Yan
 
+Backend-focused web developer who enjoys building practical, reliable web applications and clean, responsive interfaces.
+
+- 🌱 Currently improving my skills in Laravel, REST APIs, and React.
+- 💼 Interested in backend and full-stack web development opportunities.
+- 📫 Connect with me through GitHub: [@htetwaiyanDB](https://github.com/htetwaiyanDB)
+
 ### 📊 GitHub Stats & Activity
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=htetwaiyanDB&theme=dark" alt="GitHub Streak" />
